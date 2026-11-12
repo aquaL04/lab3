@@ -1,0 +1,15 @@
+# ROS 2 generated files
+build/
+install/
+log/
+*.bag
+*.db3
+*.mcap
+
+# Local measurements and Python/editor caches
+lab3_records/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+*.swp

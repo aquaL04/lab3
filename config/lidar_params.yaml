@@ -3,6 +3,6 @@ lidar_node:
     port_name: "/dev/ttyACM0"
     frame_id: "laser"
     filter:
-      enabled: true        # A组：false；B组改回 true
+      enabled: false       # A组：false；B组改回 true
       radius: 0.10
       min_neighbors: 2
